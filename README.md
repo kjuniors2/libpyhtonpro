@@ -9,13 +9,11 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 ```console
 pip install pipenv
 pipenv install --dev
-
-
 ```
 
 **Para conferir qualidade de código:**
 
-``console
+```console
 pipenv run flake8
 ```
 
