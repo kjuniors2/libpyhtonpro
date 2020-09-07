@@ -1,18 +1,25 @@
+
 # libpyhtonpro
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
-Para instalar:
 
-pip install pipenv
-pipenv install --dev
-Para conferir qualidade de código:
+<p>
+**Para instalar:**
 
-pipenv run flake8
+`pip install pipenv`
+
+`pipenv install --dev`
+
+**Para conferir qualidade de código:**
+
+`pipenv run flake8`
+</p>
+
+
 Tópicos a serem abordados:
-
-Git
-Virtualenv
-Pip
-Mock
-Pipenv
+1. Git
+2. Virtualenv
+3. Pip
+4. Mock
+5. Pipenv
