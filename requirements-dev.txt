@@ -5,7 +5,7 @@ pyflakes==2.2.0
 
 #deps do pytest
 py
-more-itertools
+more-itertools==8.5.0
 six
 attrs
 pluggy
