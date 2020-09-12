@@ -7,7 +7,7 @@ pyflakes==2.2.0
 py==1.9.0
 more-itertools
 six
-attrs
+attrs==20.2.0
 pluggy
 pytest
 -r requirements.txt
