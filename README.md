@@ -7,7 +7,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 [![Build Status](https://travis-ci.org/kjuniors2/libpyhtonpro.svg?branch=master)](https://travis-ci.org/kjuniors2/libpyhtonpro)
 [![Python 3](https://pyup.io/repos/github/kjuniors2/libpyhtonpro/python-3-shield.svg)](https://pyup.io/repos/github/kjuniors2/libpyhtonpro/)
 [![Updates](https://pyup.io/repos/github/kjuniors2/libpyhtonpro/shield.svg)](https://pyup.io/repos/github/kjuniors2/libpyhtonpro/)
-
+[![codecov](https://codecov.io/gh/kjuniors2/libpyhtonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/kjuniors2/libpyhtonpro)
 **Para instalar:**
 
 ```console
