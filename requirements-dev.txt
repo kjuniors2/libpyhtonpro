@@ -8,6 +8,6 @@ py
 more-itertools
 six
 attrs
-pluggy
+pluggy==0.13.1
 pytest
 -r requirements.txt
