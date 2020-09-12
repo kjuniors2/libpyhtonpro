@@ -9,5 +9,5 @@ more-itertools
 six
 attrs
 pluggy
-pytest
+pytest==6.0.2
 -r requirements.txt
