@@ -2,7 +2,6 @@ from unittest.mock import Mock
 
 import pytest
 
-from libpythonpro.spam.enviador_de_email import Enviador
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
 
@@ -43,7 +42,7 @@ def test_parametros_de_spam(sessao):
         'Curso de Python',
         'Confira os modulos saso fantasticos'
     )
-    enviador.enviar.assert_called_once_with (
+    enviador.enviar.assert_called_once_with(
         'junior@foo.bar',
         'junior@foo.bar',
         'Curso de Python',
